@@ -535,12 +535,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
+**Project Maintainer**: Risenga Sono  
+**Email**: sonosengi@gmail.com 
 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
+**GitHub**: [@SengiSliko](https://github.com/SengiSliko)  
 
-**Project Link**: [https://github.com/yourusername/diet-planner-llm](https://github.com/yourusername/diet-planner-llm)
+**Project Link**: [https://github.com/SengiSliko/DIetLLM](https://github.com/SengiSliko/DIetLLM)
 
 ---
 
@@ -548,8 +548,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-[Report Bug](https://github.com/yourusername/diet-planner-llm/issues) · [Request Feature](https://github.com/yourusername/diet-planner-llm/issues) · [Documentation](https://docs.yourproject.com)
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Sengi Sono](https://github.com/SengiSliko)
 
 </div>
